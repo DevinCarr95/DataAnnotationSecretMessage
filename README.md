@@ -1,0 +1,3 @@
+This repo contains code that I wrote for a coding assessment in .NET. This console application parses information from the Google doc (linked below), and prints the unicode characters on a grid to display a sequence of letters. Whoever wrote the assessment decided to just display a random sequence of letters, instead of an actual message, so if you get a message that makes no sense when you run this, that is why.
+
+https://docs.google.com/document/u/0/d/e/2PACX-1vRPzbNQcx5UriHSbZ-9vmsTow_R6RRe7eyAU60xIF9Dlz-vaHiHNO2TKgDi7jy4ZpTpNqM7EvEcfr_p/pub?pli=1
